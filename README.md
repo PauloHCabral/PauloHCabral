@@ -50,7 +50,7 @@
 
 ## ✨ Um pouco de diversão
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+<img src="https://giphy.com/gifs/cartoon-3d-astronaut-VOgpnDOAddaN0zr9UE" width="300"/>
 
 ---
 ---
