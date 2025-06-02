@@ -53,11 +53,53 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
 ---
+---
+
+## 📚 Roadmap de Estudos
+
+Atualmente estou focado em fortalecer minhas bases em cloud computing, infraestrutura como código e programação.
+
+### ☁️ Cloud & Infraestrutura
+- [x] Conceitos fundamentais de computação em nuvem  
+- [x] Modelo de responsabilidade compartilhada  
+- [ ] Serviços principais da AWS (EC2, S3, RDS, IAM, Lambda)  
+- [ ] Segurança e boas práticas na nuvem  
+- [ ] Planejamento de custos e suporte na AWS  
+- [ ] Fundamentos de Docker 🐳  
+- [ ] Introdução ao Terraform ⚙️  
+- [ ] Automatização e provisionamento de infraestrutura com Terraform + AWS  
+
+### 👨‍💻 Programação
+- [x] HTML5 & CSS3 – estrutura e estilos de páginas  
+- [x] Lógica de programação com JavaScript  
+- [ ] Fundamentos de Python (sintaxe, estruturas de dados, funções)  
+- [ ] Projetos com Python usando Pandas e automações  
+- [ ] Java – sintaxe básica e orientação a objetos  
+- [ ] Criação de pequenos sistemas web com Flask  
+
+---
+
+## 📜 Certificações em Andamento
+
+🎯 **AWS Certified Cloud Practitioner – foco até julho de 2025**
+
+🧠 Estudando com:
+- Plataforma [AWS Academy](https://awsacademy.instructure.com/)
+- Documentação oficial da AWS
+- Cursos em português e inglês com laboratórios práticos
+
+🔐 Próximas metas:
+- Especialização em **segurança na nuvem**
+- Aprender **Docker** para conteinerização de aplicações
+- Aprender **Terraform** para provisionamento de infraestrutura como código
+- Avançar para a certificação **AWS Solutions Architect Associate**
+- Estudar **Python para automações
+
 
 ## 📫 Como me encontrar
 
-- 📧 seuemail@email.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/seunome)  
-- 🌐 [Meu Portfólio](https://seusite.com)
+- 📧 phcloudgemini@gmail.com
+- 🔗 [LinkedIn](www.linkedin.com/in/paulo-henrique-barbosa-cabral-077b7b142)  
+
 
 
