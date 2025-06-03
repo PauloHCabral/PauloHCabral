@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Paulo Cabral!
 
 🎓 Sou formado em **Tecnologia em Redes de Computadores** ✨  
-🥷🚀 Profissional em transição de carreira, focado em tecnologia, segurança e desenvolvimento.
+🚀 Profissional em transição de carreira, focado em tecnologia, segurança e desenvolvimento.
 
 ---
 
