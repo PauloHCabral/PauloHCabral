@@ -52,8 +52,8 @@
 ## ✨ Um pouco de diversão
 
 <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="300"/>
-<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="250"/>
-<img src="https://media.giphy.com/media/VOgpnDOAddaN0zr9UE/giphy.gif" width="250"/>
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/VOgpnDOAddaN0zr9UE/giphy.gif" width="300"/>
 
 
 
