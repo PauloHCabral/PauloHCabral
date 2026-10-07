@@ -1,7 +1,7 @@
-# 🚀 Paulo Cabral | DevOps • Cloud • DevSecOps
+# 🚀 Paulo Cabral | DevOps • Cloud • Dados
 
 🎓 Formado em **Tecnologia em Redes de Computadores**  
-💼 Analista de Tecnologia | Transição para **DevOps / Cloud / DevSecOps**  
+💼 Analista de Tecnologia | Transição para **DevOps / Cloud / Analise de Dados**  
 🌎 São Paulo - Brasil  
 
 ---
